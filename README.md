@@ -1,2 +1,6 @@
 # hello-world
-A good ole quaint and tidy Hello World!
+
+Roses are red
+Violets are blue
+I'm on github
+Coffee?
